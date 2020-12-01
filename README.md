@@ -16,3 +16,5 @@ How To Run:
 5: Enter your webhook into the input
 
 And that should be it.
+
+![ezgif-7-83e80409da95](https://user-images.githubusercontent.com/40443874/100809679-a6ed1180-3404-11eb-8f99-b9a8e81a3857.gif)
