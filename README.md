@@ -8,13 +8,6 @@ pip install discord_webhook
 
 If theres anything I missed, just make sure to download the module it says that's missing
 
-How To Run:
-1: Put this into a folder/in a directory
-2: Open CMD
-3: type "cd (directory), ex: cd Desktop
-4: Once in the directory type "py crypto.py" or "python3 crypto.py" depending on what works/what you have
-5: Enter your webhook into the input
-
-And that should be it.
-
 ![ezgif-7-83e80409da95](https://user-images.githubusercontent.com/40443874/100809679-a6ed1180-3404-11eb-8f99-b9a8e81a3857.gif)
+
+You can either CD into it and run it, or just open the py you downloaded.
