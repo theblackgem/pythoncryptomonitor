@@ -19,7 +19,7 @@ def log_discord(title, message, field1_name, field1_value, footer, icon_url, web
 def log_discord2(title, message, field1_name, field1_value, footer, icon_url, webhook):
     url = f'{webhook}'
     webhook = DiscordWebhook(url=url)
-    em = DiscordEmbed(title=title, description=message, color='0')
+    em = DiscordEmbed(title=title, description=message, color='16749824')
     em.add_embed_field(name=field1_name, value=field1_value, inline=True)
     em.set_footer(text=footer, icon_url=icon_url)
     webhook.add_embed(em)
@@ -28,7 +28,7 @@ def log_discord2(title, message, field1_name, field1_value, footer, icon_url, we
 def log_discord3(title, message, field1_name, field1_value, footer, icon_url, webhook):
     url = f'{webhook}'
     webhook = DiscordWebhook(url=url)
-    em = DiscordEmbed(title=title, description=message, color='16749824')
+    em = DiscordEmbed(title=title, description=message, color='0')
     em.add_embed_field(name=field1_name, value=field1_value, inline=True)
     em.set_footer(text=footer, icon_url=icon_url)
     webhook.add_embed(em)
