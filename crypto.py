@@ -86,3 +86,4 @@ while True:
                 print(f'ETH is {price3.text}')
                 print('Next check in 10 minutes.')
                 sleep(600)
+                print('Thank you blackgemog :D')
